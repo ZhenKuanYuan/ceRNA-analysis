@@ -1,0 +1,21 @@
+#please cite:
+#Zhou KR, Liu S, Li B, Liu SR, Zheng WJ, Cai L, et al. An encyclopedia of RNA interactomes in ENCORI.
+#2.Li JH, et al.starBase v2.0: decoding miRNA-ceRNA, miRNA-ncRNA and protein-RNA interaction networks from large-scale CLIP-Seq data , Nucleic Acids Res. 2014 Jan;42:D92-7.
+miRNAid	miRNAname	geneID	geneName	geneType	chromosome	start	end	strand	clipExpNum	degraExpNum	RBP	merClass	miRseq	align	targetSeq	pancancerNum
+MIMAT0005901	hsa-miR-1249-3p	ENSG00000263590	AC239800.3	lincRNA	chr1	149284745	149284766	+	1	0	AGO2	7mer-m8	acuucuuccccccCUUCCCGCa	             |||||||| 	gacucugaaaccaGAAGGGCGg	1	Huh7.5
+MIMAT0005901	hsa-miR-1249-3p	ENSG00000273481	AL391069.4	lincRNA	chr1	151300534	151300555	+	5	0	AGO1-4	7mer-m8	acuucuuccccccCUUCCCGCa	             |||||||| 	cgcuggguuccuaGAAGGGCGc	0	MCF7
+MIMAT0005901	hsa-miR-1249-3p	ENSG00000270141	TERC	lincRNA	chr3	169482781	169482802	-	6	0	AGO1-4,AGO2	7mer-m8	acuucuuccccCCCUUCCCGCa	           | |||||||| 	uaacccuaacuGAGAAGGGCGu	0	HEK293S,MCF7
+MIMAT0005901	hsa-miR-1249-3p	ENSG00000278970	HEIH	TEC	chr5	180258237	180258258	-	1	0	AGO2	7mer-m8	acuucuucccccCCUUCCCGCa	            | ||||||| 	ucucccgccaucGCAAGGGCGg	9	HeLa
+MIMAT0005901	hsa-miR-1249-3p	ENSG00000224077	AP000936.1	antisense	chr11	116969791	116969812	+	1	0	AGO1-4	7mer-m8	acuucuucccccccUUCCCGCa	              ||||||| 	ggauuugcguguucAAGGGCGg	1	MCF7
+MIMAT0005901	hsa-miR-1249-3p	ENSG00000257379	AC023509.1	processed_transcript	chr12	53856272	53856293	+	2	1	AGO1-4,AGO2	7mer-m8	acuucuuccccccCUUCCCGCa	             |||||||| 	cccagucccccccGAAGGGCGu	5	HS27a,Huh7.5
+MIMAT0005901	hsa-miR-1249-3p	ENSG00000266962	AC067852.2	antisense	chr17	40706277	40706298	-	2	0	AGO1-4	7mer-m8	acUUCUUCCCCCCCUUCCCGCa	  ||| : || || ||||||| 	ggAAGUGAGGCGGAAAGGGCGc	10	MCF7
+MIMAT0005901	hsa-miR-1249-3p	ENSG00000279685	MAPT-IT1	sense_intronic	chr17	43975639	43975660	+	1	0	AGO1-4	7mer-m8	acuucuucccccCCUUCCCGCa	            ||||||||| 	acuguuccugcuGGAAGGGCGu	2	MCF7
+MIMAT0005901	hsa-miR-1249-3p	ENSG00000279069	AC015813.5	TEC	chr17	56084318	56084339	+	2	0	AGO1-4	7mer-m8	acuucUUCCCCCCCUUCCCGCa	     | |  || |||||||| 	acucaACGAAGGCGAAGGGCGg	10	MCF7
+MIMAT0005901	hsa-miR-1249-3p	ENSG00000268186	AC008392.1	lincRNA	chr19	48774488	48774509	-	1	0	AGO1-4	7mer-m8	acuucuucccccccUUCCCGCa	              ||||||| 	ccucaguacuguaaAAGGGCGg	3	MCF7
+MIMAT0005901	hsa-miR-1249-3p	ENSG00000227195	MIR663AHG	processed_transcript	chr20	26189944	26189959	-	17	0	AGO1,AGO1-4	7mer-m8	acuucuUCCCCCCCUUCCCGCa	      | | ||||||||||| 	------ACGCGGGGAAGGGCGc	3	HEK293,MCF7
+MIMAT0005901	hsa-miR-1249-3p	ENSG00000227195	MIR663AHG	processed_transcript	chr20	26189944	26189965	-	17	0	AGO1,AGO1-4	7mer-m8	acuucuUCCCCCCCUUCCCGCa	      | | ||||||||||| 	ccucccACGCGGGGAAGGGCGc	3	HEK293,MCF7
+MIMAT0005901	hsa-miR-1249-3p	ENSG00000183250	LINC01547	lincRNA	chr21	46353145	46353166	-	1	0	AGO2	7mer-m8	acuucuucccccccUUCCCGCa	              ||||||| 	ucggcuucagaauaAAGGGCGc	0	HEK293
+MIMAT0005901	hsa-miR-1249-3p	ENSG00000206195	DUXAP8	processed_transcript	chr22	16148898	16148919	-	1	0	AGO1-4	8mer	acuucuucccccccUUCCCGCa	              ||||||| 	ggcugcugccugauAAGGGCGa	2	MCF7
+MIMAT0005901	hsa-miR-1249-3p	ENSG00000218537	MIF-AS1	antisense	chr22	24236942	24236963	-	1	0	AGO2	7mer-m8	acuucuuCCCCCCCUUCCCGCa	       | | || ||||||| 	auguacuGCGAGGAAAGGGCGc	1	EWS
+MIMAT0005901	hsa-miR-1249-3p	ENSG00000229807	XIST	lincRNA	chrX	73071685	73071706	-	6	0	AGO2	7mer-m8	acuucuucccccccUUCCCGCa	              ||||||| 	ucugcaguuaagcuAAGGGCGu	0	HEK293S
+MIMAT0005901	hsa-miR-1249-3p	ENSG00000235703	LINC00894	antisense	chrX	149108938	149108960	+	4	0	AGO2	7mer-m8	acuUCUUC-CCCCCCUUCCCGCa	   |||||  |   |||||||| 	cacAGAAGCAGCAAGAAGGGCGg	3	HeLa

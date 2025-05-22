@@ -1,0 +1,16 @@
+#please cite:
+#Zhou KR, Liu S, Li B, Liu SR, Zheng WJ, Cai L, et al. An encyclopedia of RNA interactomes in ENCORI.
+#2.Li JH, et al.starBase v2.0: decoding miRNA-ceRNA, miRNA-ncRNA and protein-RNA interaction networks from large-scale CLIP-Seq data , Nucleic Acids Res. 2014 Jan;42:D92-7.
+miRNAid	miRNAname	geneID	geneName	geneType	chromosome	start	end	strand	clipExpNum	degraExpNum	RBP	merClass	miRseq	align	targetSeq	pancancerNum
+MIMAT0026616	hsa-miR-579-5p	ENSG00000273481	AL391069.4	lincRNA	chr1	151300649	151300674	+	10	0	AGO1-4	7mer-m8	gcaguagACCGUGU----UUGGCGCu	       ||||:|:    ||||||| 	ucgggaaUGGCGCGGUCCAACCGCGu	1	BT474
+MIMAT0026616	hsa-miR-579-5p	ENSG00000234171	RNASEH1-AS1	antisense	chr2	3606287	3606308	+	1	0	AGO2	7mer-m8	gcaguagacCGUGUUUGGCGCu	         ||:  ||||||| 	cacccacguGCGGUAACCGCGg	1	HeLa
+MIMAT0026616	hsa-miR-579-5p	ENSG00000225733	FGD5-AS1	antisense	chr3	14988781	14988800	-	1	0	AGO1-4	8mer	gcaGUAGACCGUGUUUGGCGCu	   | |||||   :||||||| 	gccCCUCUGG--GGAACCGCGa	4	MCF7
+MIMAT0026616	hsa-miR-579-5p	ENSG00000231074	HCG18	antisense	chr6	30294012	30294033	-	1	0	AGO1-4	7mer-m8	gcaguagacCGUGUUUGGCGCu	         ||  :||||||| 	cgggggagaGCUGGAACCGCGu	0	HS27a
+MIMAT0026616	hsa-miR-579-5p	ENSG00000234432	AC092171.3	lincRNA	chr7	5466325	5466344	-	1	0	AGO1-4	7mer-m8	gcaguaGACCGUGUUUGGCGCu	      |||| | |||||||| 	gcagccCUGG-A-AAACCGCGu	4	MCF7
+MIMAT0026616	hsa-miR-579-5p	ENSG00000239911	PRKAG2-AS1	antisense	chr7	151576111	151576132	+	1	0	AGO1-4	8mer	gcaGUAGACCGUGUUUGGCGCu	   ||   || : |||||||| 	accCAGAAGGAGAAAACCGCGa	5	MCF7
+MIMAT0026616	hsa-miR-579-5p	ENSG00000233016	SNHG7	antisense	chr9	139619232	139619253	-	7	0	AGO1,AGO2	7mer-m8	gcaguagaccgUGUUUGGCGCu	           | :||||||| 	gguggagaaaaAAGAACCGCGu	2	HEK293,HEK293S
+MIMAT0026616	hsa-miR-579-5p	ENSG00000257038	AP002761.3	antisense	chr11	73019219	73019237	-	1	0	AGO1-4	7mer-m8	gcaguaGACCGUGUUUGGCGCu	      ||||   :||||||| 	gcgagcCUGG---GAACCGCGu	5	MCF7
+MIMAT0026616	hsa-miR-579-5p	ENSG00000284697	AC006511.5	processed_transcript	chr12	8234951	8234973	+	1	0	AGO1-4	7mer-m8	gcaguaGACC-GUGUUUGGCGCu	      | || | | ||||||| 	ccgcccCGGGCCUCCAACCGCGg	0	MCF7
+MIMAT0026616	hsa-miR-579-5p	ENSG00000261469	AC020978.4	sense_intronic	chr16	68271161	68271184	-	5	0	AGO1-4	7mer-m8	gcagUAGACCG-UGU-UUGGCGCu	    :|| ||| | : ||||||| 	ucgaGUCGGGCUAGGCAACCGCGu	5	BT474
+MIMAT0026616	hsa-miR-579-5p	ENSG00000266402	SNHG25	lincRNA	chr17	62223801	62223822	+	6	0	AGO1-4	8mer	gcaguagaccguguUUGGCGCu	              ||||||| 	cgggcggccuuuuuAACCGCGa	0	MCF7
+MIMAT0026616	hsa-miR-579-5p	ENSG00000248101	AC002116.1	processed_transcript	chr19	36500408	36500428	-	1	0	AGO1-4	7mer-m8	gcaguaGACCGUGUUUGGCGCu	      || ||  :||||||| 	ucgcuaCU-GCUGGAACCGCGc	1	Liver

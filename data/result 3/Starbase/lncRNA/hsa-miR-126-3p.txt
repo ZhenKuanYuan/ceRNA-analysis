@@ -1,0 +1,10 @@
+#please cite:
+#Zhou KR, Liu S, Li B, Liu SR, Zheng WJ, Cai L, et al. An encyclopedia of RNA interactomes in ENCORI.
+#2.Li JH, et al.starBase v2.0: decoding miRNA-ceRNA, miRNA-ncRNA and protein-RNA interaction networks from large-scale CLIP-Seq data , Nucleic Acids Res. 2014 Jan;42:D92-7.
+miRNAid	miRNAname	geneID	geneName	geneType	chromosome	start	end	strand	clipExpNum	degraExpNum	RBP	merClass	miRseq	align	targetSeq	pancancerNum
+MIMAT0000445	hsa-miR-126-3p	ENSG00000231871	IPO9-AS1	antisense	chr1	201798560	201798584	-	2	0	AGO1-4	7mer-m8	gcguaaUA-AUGAGU--GCCAUGCu	      || | | ||  ||||||| 	cuccccAUGUCCCCAGCCGGUACGg	6	MCF7
+MIMAT0000445	hsa-miR-126-3p	ENSG00000274272	AC069281.2	processed_transcript	chr7	100175846	100175868	-	2	0	AGO1-4,AGO3	8mer	gcguaauaaugaGU-GCCAUGCu	            || ||||||| 	cuauuuccgggaCAUCGGUACGa	8	HEK293,Liver
+MIMAT0000445	hsa-miR-126-3p	ENSG00000261455	LINC01003	lincRNA	chr7	152161882	152161904	+	1	0	AGO1-4	7mer-m8	gcGUAAUAAUGAG-UGCCAUGCu	  | || |  |||  ||||||| 	caCUUUCUCCCUCUCCGGUACGg	5	MCF7
+MIMAT0000445	hsa-miR-126-3p	ENSG00000216895	AC009403.1	antisense	chr7	155436156	155436175	-	2	0	AGO1-4	7mer-m8	gcgUAAUAAUGAGUGCCAUGCu	   || || |   |||||||| 	gagAUGAUAA--AACGGUACGu	5	MCF7
+MIMAT0000445	hsa-miR-126-3p	ENSG00000283128	AC009403.2	processed_transcript	chr7	155436156	155436175	-	2	0	AGO1-4	7mer-m8	gcgUAAUAAUGAGUGCCAUGCu	   || || |   |||||||| 	gagAUGAUAA--AACGGUACGu	0	MCF7
+MIMAT0000445	hsa-miR-126-3p	ENSG00000229807	XIST	lincRNA	chrX	73069441	73069460	-	11	0	AGO1,AGO2	7mer-m8	gcguaauAAUGAGUGCCAUGCu	       |||||  ||||||| 	aauuuccUUACU--CGGUACGu	3	HEK293,HEK293S

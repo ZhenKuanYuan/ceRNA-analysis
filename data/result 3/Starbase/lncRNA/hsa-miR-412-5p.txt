@@ -1,0 +1,16 @@
+#please cite:
+#Zhou KR, Liu S, Li B, Liu SR, Zheng WJ, Cai L, et al. An encyclopedia of RNA interactomes in ENCORI.
+#2.Li JH, et al.starBase v2.0: decoding miRNA-ceRNA, miRNA-ncRNA and protein-RNA interaction networks from large-scale CLIP-Seq data , Nucleic Acids Res. 2014 Jan;42:D92-7.
+miRNAid	miRNAname	geneID	geneName	geneType	chromosome	start	end	strand	clipExpNum	degraExpNum	RBP	merClass	miRseq	align	targetSeq	pancancerNum
+MIMAT0026557	hsa-miR-412-5p	ENSG00000242125	SNHG3	processed_transcript	chr1	28835620	28835640	+	6	0	AGO1-4,AGO2	7mer-m8	uaauGAAAGGUUGACCAGCUGGu	    ||||: ||   ||||||| 	accuCUUUUAAA--AGUCGACCu	3	HEK293S,MCF7
+MIMAT0026557	hsa-miR-412-5p	ENSG00000273213	AC239798.4	processed_transcript	chr1	149400506	149400527	-	5	0	AGO1,AGO1-4	7mer-m8	uaaUGAAAGGUUGACCAGCUGGu	   || | || :|  ||||||| 	cagAC-UGCCCGCAAGUCGACCg	2	Flp-In-T-REx-293,MCF7
+MIMAT0026557	hsa-miR-412-5p	ENSG00000279809	AC005538.2	TEC	chr2	234775355	234775377	-	7	0	AGO1-4	8mer	uaaugaaaggUUGACCAGCUGGu	          |::  ||||||| 	gucuacagagAGUCAGUCGACCa	0	MCF7
+MIMAT0026557	hsa-miR-412-5p	ENSG00000273142	AC073335.2	lincRNA	chr7	66369966	66369984	+	1	0	AGO1-4	7mer-m8	uaAUGAAAGGUUGACCAGCUGGu	  | :||||||    ||||||| 	aaUUUUUUCCA----GUCGACCu	5	MCF7
+MIMAT0026557	hsa-miR-412-5p	ENSG00000254635	WAC-AS1	antisense	chr10	28811694	28811716	-	1	0	AGO1	8mer	uaaUGA-AAGGUUGACCAGCUGGu	   |||  | ||:|  ||||||| 	gagACUCCUGCAGC-AGUCGACCa	3	Flp-In-T-REx-293
+MIMAT0026557	hsa-miR-412-5p	ENSG00000272767	JMJD1C-AS1	antisense	chr10	65224989	65224997	+	1	0	AGO1-4	7mer-m8	uaaugaaagguugaCCAGCUGGu	              |||||||| 	--------------GGUCGACCc	1	MCF7
+MIMAT0026557	hsa-miR-412-5p	ENSG00000260899	AC106886.2	processed_transcript	chr16	30759763	30759787	+	2	0	AGO2	7mer-m8	uaaugaaagGUUGA-C-CAGCUGGu	         ||:|| | ||||||| 	gcgacagcgCAGCUCGCGUCGACCc	5	HEK293S
+MIMAT0026557	hsa-miR-412-5p	ENSG00000260899	AC106886.2	processed_transcript	chr16	30759764	30759787	+	2	0	AGO2	7mer-m8	uaaugaaagGUUGA-C-CAGCUGGu	         ||:|| | ||||||| 	-cgacagcgCAGCUCGCGUCGACCc	5	HEK293S
+MIMAT0026557	hsa-miR-412-5p	ENSG00000273576	AC009283.1	lincRNA	chr17	37723430	37723451	+	1	0	AGO1-4	8mer	uaaUGAAAGGUUGACCAGCUGGu	   |: | :|::|  ||||||| 	cccAUAUCUCGGC-AGUCGACCa	3	MCF7
+MIMAT0026557	hsa-miR-412-5p	ENSG00000188825	LINC00910	lincRNA	chr17	41464629	41464650	-	19	4	AGO1,AGO1-4,AGO2,AGO3	7mer-m8	uaAUGAAAGGUUGACCAGCUGGu	  | |  ||| ||  ||||||| 	ugUCCACUCC-ACGCGUCGACCu	9	HEK293,HeLa,MCF7
+MIMAT0026557	hsa-miR-412-5p	ENSG00000236144	TMEM147-AS1	antisense	chr19	36036032	36036054	-	1	0	AGO1-4	8mer	uaaugaaagguugaCCAGCUGGu	              |||||||| 	cauguagcggaggaGGUCGACCa	6	BT474
+MIMAT0026557	hsa-miR-412-5p	ENSG00000273619	AL121832.2	antisense	chr20	60961890	60961912	-	1	0	AGO1-4	7mer-m8	uaaugaaagguugacCAGCUGGu	               ||||||| 	ugccccacggacgcaGUCGACCc	4	MCF7

@@ -1,0 +1,16 @@
+#please cite:
+#Zhou KR, Liu S, Li B, Liu SR, Zheng WJ, Cai L, et al. An encyclopedia of RNA interactomes in ENCORI.
+#2.Li JH, et al.starBase v2.0: decoding miRNA-ceRNA, miRNA-ncRNA and protein-RNA interaction networks from large-scale CLIP-Seq data , Nucleic Acids Res. 2014 Jan;42:D92-7.
+miRNAid	miRNAname	geneID	geneName	geneType	chromosome	start	end	strand	clipExpNum	degraExpNum	RBP	merClass	miRseq	align	targetSeq	pancancerNum
+MIMAT0001545	hsa-miR-450a-5p	ENSG00000284830	AL049557.1	bidirectional_promoter_lncRNA	chr1	112296670	112296693	-	1	0	AGO1-4	8mer	uauAAUCCUUGUGU--AGCGUUUu	   |||  | | :|  ||||||| 	ccuUUAUCAUCCUAACUCGCAAAa	0	MCF7
+MIMAT0001545	hsa-miR-450a-5p	ENSG00000225733	FGD5-AS1	antisense	chr3	14988691	14988711	-	3	0	AGO1-4,AGO2	7mer-m8	uauaauCCUUGUGUAGCGUUUu	      |||| :| ||||||| 	gcuucuGGAAGGC-UCGCAAAg	15	HEK293S,MCF7
+MIMAT0001545	hsa-miR-450a-5p	ENSG00000247828	TMEM161B-AS1	antisense	chr5	87566741	87566762	+	1	0	AGO1-4	7mer-m8	uauaauccuuguguAGCGUUUu	              ||||||| 	gcagucauugagguUCGCAAAg	5	MCF7
+MIMAT0001545	hsa-miR-450a-5p	ENSG00000266680	AL135905.1	antisense	chr6	64281738	64281762	-	1	0	AGO1-4	8mer	uauaaUCCUUGUGU---AGCGUUUu	     || ||| :|   ||||||| 	cggggAGAAACUUACCUUCGCAAAa	5	MCF7
+MIMAT0001545	hsa-miR-450a-5p	ENSG00000260273	AL359711.2	antisense	chr6	109704610	109704632	+	1	0	AGO2	8mer	uauaauccUUGUGU-AGCGUUUu	        || |:| ||||||| 	agucucacAAAAUAUUCGCAAAa	1	HEK293
+MIMAT0001545	hsa-miR-450a-5p	ENSG00000273142	AC073335.2	lincRNA	chr7	66368573	66368594	+	1	0	AGO2	8mer	uauaauccuuGUGUAGCGUUUu	          :|| ||||||| 	gcccagcuccUACCUCGCAAAa	3	HCT116
+MIMAT0001545	hsa-miR-450a-5p	ENSG00000255310	AF131215.5	sense_intronic	chr8	10965298	10965318	-	2	0	AGO1-4	7mer-m8	uauaauccuuGUGUAGCGUUUu	          ||| ||||||| 	auacaacucuCACCUCGCAAA-	10	MCF7
+MIMAT0001545	hsa-miR-450a-5p	ENSG00000261351	AC116913.1	antisense	chr15	66784382	66784402	-	1	0	AGO1-4	7mer-m8	uaUAAUCCUUGUGUAGCGUUUu	  |||:   | |::||||||| 	ccAUUGCUUA-AUGUCGCAAAg	1	MCF7
+MIMAT0001545	hsa-miR-450a-5p	ENSG00000196696	AC009022.1	processed_transcript	chr16	70064895	70064916	-	2	0	AGO1-4	7mer-m8	uauaauccuUGUGUAGCGUUUu	         :| ::||||||| 	gccccuguuGCUUGUCGCAAAu	4	MCF7
+MIMAT0001545	hsa-miR-450a-5p	ENSG00000204666	AC010624.1	sense_overlapping	chr19	50554296	50554316	+	1	0	AGO1-4	8mer	uauaauCCUUGUGUAGCGUUUu	      ||| || |||||||| 	uccuguGGAUCA-AUCGCAAAa	4	MCF7
+MIMAT0001545	hsa-miR-450a-5p	ENSG00000267858	MZF1-AS1	antisense	chr19	59070721	59070742	+	1	0	AGO1-4	7mer-m8	uauaauccuuGUGUAGCGUUUu	          | ||||||||| 	ccuucccuguCCCAUCGCAAAc	5	MCF7
+MIMAT0001545	hsa-miR-450a-5p	ENSG00000197182	MIRLET7BHG	lincRNA	chr22	46508308	46508330	+	1	0	AGO1-4	8mer	uauaauCCUUGU-GUAGCGUUUu	      | :||| |:||||||| 	cugccuGUGACAGCGUCGCAAAa	4	MCF7

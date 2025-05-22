@@ -1,0 +1,16 @@
+#please cite:
+#Zhou KR, Liu S, Li B, Liu SR, Zheng WJ, Cai L, et al. An encyclopedia of RNA interactomes in ENCORI.
+#2.Li JH, et al.starBase v2.0: decoding miRNA-ceRNA, miRNA-ncRNA and protein-RNA interaction networks from large-scale CLIP-Seq data , Nucleic Acids Res. 2014 Jan;42:D92-7.
+miRNAid	miRNAname	geneID	geneName	geneType	chromosome	start	end	strand	clipExpNum	degraExpNum	RBP	merClass	miRseq	align	targetSeq	pancancerNum
+MIMAT0003180	hsa-miR-487b-3p	ENSG00000236933	SRGAP2C	antisense	chr1	120835822	120835843	-	1	0	AGO1-4	8mer	uucaccUACUGGGACAUGCUAa	      || :|   ||||||| 	gagaucAUAGCAGAGUACGAUa	0	HS5
+MIMAT0003180	hsa-miR-487b-3p	ENSG00000229874	RP11-312O7.2	antisense	chr1	206135305	206135326	-	1	0	AGO1-4	8mer	uucaccUACUGGGACAUGCUAa	      || :|   ||||||| 	gagaucAUAGCAGAGUACGAUa	0	HS5
+MIMAT0003180	hsa-miR-487b-3p	ENSG00000272758	AC083798.2	antisense	chr3	122139952	122139973	+	1	0	AGO1-4	7mer-m8	uucaccUACUGGGACAUGCUAa	      :| |:::|||||||| 	aacccaGUAAUUUUGUACGAUu	10	MCF7
+MIMAT0003180	hsa-miR-487b-3p	ENSG00000234456	MAGI2-AS3	processed_transcript	chr7	79092256	79092274	+	1	0	AGO2	7mer-m8	uucACCUACUGGGACAUGCUAa	   || || |   |||||||| 	auuUGUAUAA---UGUACGAUg	3	motor-cortex
+MIMAT0003180	hsa-miR-487b-3p	ENSG00000274272	AC069281.2	processed_transcript	chr7	100175844	100175866	-	2	0	AGO1-4,AGO3	7mer-m8	uucaccuaCUG-GGACAUGCUAa	        ||| :| ||||||| 	auuuccggGACAUCGGUACGAUg	2	HEK293,Liver
+MIMAT0003180	hsa-miR-487b-3p	ENSG00000254389	RHPN1-AS1	antisense	chr8	144449617	144449639	-	1	0	AGO1-4	7mer-m8	uucaCCU-ACUGGGACAUGCUAa	    ||| ||   : ||||||| 	ggccGGAGUGCAGUGGUACGAUc	6	MCF7
+MIMAT0003180	hsa-miR-487b-3p	ENSG00000245532	NEAT1	lincRNA	chr11	65210437	65210459	+	8	0	AGO1-4,AGO2	7mer-m8	uuCACCUAC-UGGGACAUGCUAa	  | ||| | : |||||||||| 	cuGAGGAAGUGGCCUGUACGAUu	6	Huh7.5,MCF7
+MIMAT0003180	hsa-miR-487b-3p	ENSG00000261136	AC023908.3	antisense	chr15	40075634	40075655	+	1	0	AGO1-4	7mer-m8	uucaccuACUGGGACAUGCUAa	       | ||:  ||||||| 	auuguuuUAACUAGGUACGAUg	6	MCF7
+MIMAT0003180	hsa-miR-487b-3p	ENSG00000244879	GABPB1-AS1	antisense	chr15	50658637	50658659	+	1	0	AGO1-4	7mer-m8	uucACCUACUGGGA-CAUGCUAa	   ||||  ||  | ||||||| 	ggcUGGAGUACAGUGGUACGAUc	4	MCF7
+MIMAT0003180	hsa-miR-487b-3p	ENSG00000263126	AC040162.3	lincRNA	chr16	67917067	67917088	+	1	0	AGO1-4	8mer	uucaccuacUGGGACAUGCUAa	         | |  ||||||| 	aggccuuccAGCAGGUACGAUa	1	MCF7
+MIMAT0003180	hsa-miR-487b-3p	ENSG00000274425	AC114271.1	antisense	chr19	10444653	10444674	+	3	0	AGO1-4	8mer	uucaccuacugGGACAUGCUAa	           || ||||||| 	guacauuaaggCCAGUACGAUa	5	MCF7
+MIMAT0003180	hsa-miR-487b-3p	ENSG00000272657	AP000317.2	processed_transcript	chr21	35497653	35497673	+	8	0	AGO1-4,AGO2	8mer	uucaccuACUGGGACAUGCUAa	       |||  | ||||||| 	gcuacuuUGAAAC-GUACGAUa	3	HEK293S,MCF7

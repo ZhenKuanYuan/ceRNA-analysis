@@ -1,0 +1,8 @@
+#please cite:
+#Zhou KR, Liu S, Li B, Liu SR, Zheng WJ, Cai L, et al. An encyclopedia of RNA interactomes in ENCORI.
+#2.Li JH, et al.starBase v2.0: decoding miRNA-ceRNA, miRNA-ncRNA and protein-RNA interaction networks from large-scale CLIP-Seq data , Nucleic Acids Res. 2014 Jan;42:D92-7.
+miRNAid	miRNAname	geneID	geneName	geneType	chromosome	narrowStart	narrowEnd	broadStart	broadEnd	strand	clipExpNum	degraExpNum	RBP	PITA	RNA22	miRmap	microT	miRanda	PicTar	TargetScan	pancancerNum
+MIMAT0026557	hsa-miR-412-5p	ENSG00000147144	CCDC120	protein_coding	chrX	48926127	48926133	48926127	48926133	+	3	0	AGO1-4	0	0	0	0	0	0	1	4	MCF7
+MIMAT0026557	hsa-miR-412-5p	ENSG00000198855	FICD	protein_coding	chr12	108912444	108912450	108912444	108912450	+	1	0	AGO1-4	0	0	0	0	0	0	1	6	MCF7
+MIMAT0026557	hsa-miR-412-5p	ENSG00000082898	XPO1	protein_coding	chr2	61705880	61705887	61705880	61705887	-	4	0	AGO1-4,AGO2	0	0	0	0	0	0	1	4	HEK293,MCF7
+MIMAT0026557	hsa-miR-412-5p	ENSG00000138650	PCDH10	protein_coding	chr4	134111359	134111366	134111359	134111366	+	13	0	AGO1-4,AGO2	0	0	0	0	0	0	1	1	HEK293S,MCF7

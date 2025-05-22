@@ -1,0 +1,12 @@
+#please cite:
+#Zhou KR, Liu S, Li B, Liu SR, Zheng WJ, Cai L, et al. An encyclopedia of RNA interactomes in ENCORI.
+#2.Li JH, et al.starBase v2.0: decoding miRNA-ceRNA, miRNA-ncRNA and protein-RNA interaction networks from large-scale CLIP-Seq data , Nucleic Acids Res. 2014 Jan;42:D92-7.
+miRNAid	miRNAname	geneID	geneName	geneType	chromosome	start	end	strand	clipExpNum	degraExpNum	RBP	merClass	miRseq	align	targetSeq	pancancerNum
+MIMAT0000728	hsa-miR-375	ENSG00000273004	AL078644.2	lincRNA	chr1	185286979	185287003	+	1	0	AGO1-4	7mer-m8	agUGCG-CUCGGCUU--GCUUGUUu	  || | |||  |||  ||||||| 	gcACUCUGAGAAGAAGUCGAACAAc	8	MCF7
+MIMAT0000728	hsa-miR-375	ENSG00000278978	AC092611.3	TEC	chr4	152591314	152591335	+	1	0	AGO1-4	8mer	agugcgcucggcUUGCUUGUUu	            | ||||||| 	aggcauauauauACCGAACAAa	5	MCF7
+MIMAT0000728	hsa-miR-375	ENSG00000244349	AL662791.1	antisense	chr6	28956126	28956148	+	1	0	AGO1-4	7mer-m8	agUGCGCUCGGC-UUGCUUGUUu	  | | ||  || ||||||||| 	cuAAGAGAAACGCAACGAACAAc	5	MCF7
+MIMAT0000728	hsa-miR-375	ENSG00000239569	KMT2E-AS1	antisense	chr7	104654290	104654311	-	1	0	AGO1-4	7mer-m8	agugcgcUCGGCUUGCUUGUUu	       :| :| |||||||| 	caguauuGGGUGCACGAACAAg	5	MCF7
+MIMAT0000728	hsa-miR-375	ENSG00000285338	AC091564.7	processed_transcript	chr11	6632874	6632899	-	1	0	AGO2	7mer-m8	agUG-CGCUC---GGCUUGCUUGUUu	  || |:|:|   |||  ||||||| 	cuACGGUGGGCUUCCGCCCGAACAAg	0	HeLa
+MIMAT0000728	hsa-miR-375	ENSG00000246223	LINC01550	lincRNA	chr14	98392948	98392969	-	1	0	AGO1-4	7mer-m8	agugcgcucggCUUGCUUGUUu	           |: ||||||| 	agccuucacaaGGUCGAACAAc	8	MCF7
+MIMAT0000728	hsa-miR-375	ENSG00000196756	SNHG17	processed_transcript	chr20	37050014	37050035	-	3	0	AGO1-4,AGO2	8mer	agugcgcucggcuuGCUUGUUu	              ||||||| 	accaucaguaauguCGAACAAa	9	Huh7.5,MCF7
+MIMAT0000728	hsa-miR-375	ENSG00000196741	LINC01560	lincRNA	chrX	47343260	47343281	+	3	0	AGO1-4,AGO2	7mer-m8	agugcgcucgGCUUGCUUGUUu	          | ||||||||| 	ugcauuuccgCAAACGAACAAg	7	HEK293,MCF7

@@ -1,0 +1,5 @@
+SUID	degree.layout	MCODE_Cluster	MCODE_Node_Status	MCODE_Score	name	selected	shared name	type
+221	2	Cluster 1	Clustered	3	ITGB3	FALSE	ITGB3	1
+517	1	Cluster 1	Clustered	3	CCR5	FALSE	CCR5	1
+155	1	Cluster 1	Seed	3	ITGA2	FALSE	ITGA2	1
+512	1	Cluster 1	Clustered	3	PLAU	FALSE	PLAU	1

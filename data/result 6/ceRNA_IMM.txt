@@ -1,0 +1,6 @@
+miRNA	mRNA
+hsa-miR-125b-5p	IL24
+hsa-miR-125b-5p	PLAU
+hsa-miR-125b-5p	CCR5
+hsa-miR-125b-5p	FGF5
+hsa-miR-125b-5p	PARD6G-AS1
